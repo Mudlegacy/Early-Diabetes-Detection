@@ -67,8 +67,8 @@ Our approach to solving this problem followed a structured pipeline:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
-    cd <repo-name>
+    git clone <https://github.com/Mudlegacy/Early-Diabetes-Detection>
+    cd <Early-Diabetes-Detection>
     ```
 2.  **Create and activate a virtual environment (recommended):**
     ```bash
