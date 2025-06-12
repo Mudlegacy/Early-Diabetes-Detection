@@ -102,4 +102,4 @@ Our approach to solving this problem followed a structured pipeline:
 
 *   **Team:** Team DataVerse
 *   **Project Lead:** ALMUSTAPHA DAMILOLA USMAN- LinkedIn : www.linkedin.com/in/mudlegacy - Email : usmandmustapha3@gmail.com
-*   **Project Link:** 
+*   **Project Link:** https://github.com/Mudlegacy/Early-Diabetes-Detection
