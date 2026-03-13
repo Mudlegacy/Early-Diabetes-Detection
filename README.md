@@ -4,6 +4,7 @@
 <!-- This is a generic banner, you can create a custom one! -->
 
 https://huggingface.co/spaces/MudLegacy/Early-diabetics-detection
+
 The above link is for the application hosted on HuggingFace.
 
 ## 📖 Overview..
