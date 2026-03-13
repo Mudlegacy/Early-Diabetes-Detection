@@ -3,6 +3,9 @@
 
 <!-- This is a generic banner, you can create a custom one! -->
 
+https://huggingface.co/spaces/MudLegacy/Early-diabetics-detection
+The above link is for the application hosted on HuggingFace.
+
 ## 📖 Overview..
 
 This project, completed by **Team DataVerse**, focuses on the early detection of diabetes. Using the Pima Indians Diabetes Dataset, we performed comprehensive Exploratory Data Analysis (EDA), data preprocessing, and feature engineering to build a robust classification model. Our final model, a tuned **Random Forest Classifier**, successfully predicts whether a person has diabetes with an **accuracy of 79%** and a strong **AUC score of 0.84**, prioritizing the correct identification of diabetic patients (high recall).
